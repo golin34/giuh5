@@ -1,5 +1,5 @@
-Invoke-WebRequest https://github.com/2captcha/rucaptcha-bot/releases/download/win32-ia32-prod-v2.4.5/CaptchaBotRS.Setup.2.4.5.exe -OutFile CaptchaBotRS.Setup.2.4.5.exe
-copy CaptchaBotRS.Setup.2.4.5.exe C:\Users\Public\Desktop\CaptchaBotRS.Setup.2.4.5.exe
+Invoke-WebRequest https://github.com/2captcha/rucaptcha-bot/releases/download/win32-ia32-prod-v2.4.6/CaptchaBotRS.Setup.2.4.6.exe -OutFile CaptchaBotRS.Setup.2.4.6.exe
+copy CaptchaBotRS.Setup.2.4.6.exe C:\Users\Public\Desktop\CaptchaBotRS.Setup.2.4.6.exe
 Invoke-WebRequest https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.15.4/Sandboxie-Classic-x64-v5.70.4.exe -OutFile Sandboxie-Classic-x64-v5.70.4.exe
 copy Sandboxie-Classic-x64-v5.70.4.exe C:\Users\Public\Desktop\Sandboxie-Classic-x64-v5.70.4.exe
 Invoke-WebRequest https://raw.githubusercontent.com/golin34/giuh5/refs/heads/main/ctnn.txt -OutFile ctnn.txt
